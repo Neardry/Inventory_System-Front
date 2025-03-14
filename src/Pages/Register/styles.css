@@ -1,0 +1,8 @@
+.registerClass {
+    height: 100%;
+
+    button:first-child {
+        margin-right: 30px;
+        outline-color: transparent;
+    }
+}

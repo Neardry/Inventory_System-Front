@@ -1,0 +1,16 @@
+.card-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.card {
+    background-color: azure;
+    height: 200px;
+    padding: 20px;
+}
+
+.card:hover {
+    background-color: rgb(215, 242, 250);
+    cursor: pointer;
+}
